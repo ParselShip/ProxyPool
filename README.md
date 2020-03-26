@@ -26,3 +26,9 @@ create table proxyPool (
 ## 安装依赖
 > 安装依赖命令
 > pip install -r requirements.txt
+
+## 使用说明
+> 进入到当前目录
+
+> 启动 python q05scheduler.py 而后挂起
+> python q04api.py 

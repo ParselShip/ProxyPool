@@ -18,4 +18,5 @@ create table proxyPool (
 
 
 ## 安装依赖
-> requests pymysql flask concurrent parsel faker
+> 安装依赖命令
+> pip install -r requirements.txt
